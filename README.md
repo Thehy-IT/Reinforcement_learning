@@ -25,7 +25,7 @@ Kho lưu trữ này chứa các bài tập thực hành (Lab 1 và Lab 2) về m
   - **Model-based RL:** Thu thập dữ liệu để ước lượng ma trận xác suất chuyển trạng thái $P(s'|s,a)$ và hàm phần thưởng $R(s,a)$.
   - **Thuật toán:** Cài đặt **Value Iteration** và **Policy Iteration** để tìm chính sách tối ưu.
 
-### 📝 Lab 2: Q-Learning vs SARSA
+### Lab 2: Q-Learning vs SARSA
 
 - **Môi trường:** `FrozenLake-v1` (4x4 và 8x8).
 - **Nội dung:**
